@@ -1,5 +1,4 @@
 
-<title>RFS - Certifications Study</title>
 ![Logo](./images/cover.png)
 
 
