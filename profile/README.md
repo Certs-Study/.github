@@ -27,9 +27,9 @@ Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Te
 
 | Logo | Certification Name |
 | --- | --- |
-| <img src="/images/logos/CRTP.webp" alt="Certified Red Team Professional (CRTP)" width="100" height="100"> | [Certified Red Team Professional (CRTP)](https://github.com/Certs-Study/CRTP-Red-Team-Professional) |
+| <a href="https://github.com/Certs-Study/CRTP-Red-Team-Professional"><img src="/images/logos/CRTP.webp" alt="Certified Red Team Professional (CRTP)" width="100" height="100"></a> | [Certified Red Team Professional (CRTP)](https://github.com/Certs-Study/CRTP-Red-Team-Professional) |
 | <img src="/images/logos/CRTE.webp" alt="Certified Red Team Expert (CRTE)" width="100" height="100"> | [Certified Red Team Expert (CRTE)](https://github.com/Certs-Study/CRTE-Red-Team-Expert)|
-| <img src="/images/logos/CRTM.webp" alt="Certified Red Team Master (CRTM)" width="100" height="100"> | ]Certified Red Team Master (CRTM)]() |
+| <img src="/images/logos/CRTM.webp" alt="Certified Red Team Master (CRTM)" width="100" height="100"> | [Certified Red Team Master (CRTM)]() |
 | <img src="/images/logos/CESP.webp" alt="Certified Enterprise Security Professional – AD CS (CESP – ADCS)" width="100" height="100"> | ]Certified Enterprise Security Professional – AD CS (CESP – ADCS)](https://github.com/Certs-Study/Certified-Enterprise-Security-Professional)|
 
 
