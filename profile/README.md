@@ -13,10 +13,10 @@ A brief description of what this project does and who it's for
 
 | Logo | Certification Name |
 | --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certified Red Team Professional (CRTP)" width="100" height="100"> | Certified Red Team Professional (CRTP) |
-| <img src="https://example.com/cert2-logo.png" alt="Certified Red Team Expert (CRTE)" width="100" height="100"> | Certified Red Team Expert (CRTE) |
-| <img src="https://example.com/cert3-logo.png" alt="Certified Red Team Master (CRTM)" width="100" height="100"> | Certified Red Team Master (CRTM) |
-| <img src="https://example.com/cert3-logo.png" alt="Certified Enterprise Security Professional – AD CS (CESP – ADCS)" width="100" height="100"> | Certified Enterprise Security Professional – AD CS (CESP – ADCS) |
+| <img src="/images/logos/CRTP.webp" alt="Certified Red Team Professional (CRTP)" width="100" height="100"> | Certified Red Team Professional (CRTP) |
+| <img src="/images/logos/CRTE.webp" alt="Certified Red Team Expert (CRTE)" width="100" height="100"> | Certified Red Team Expert (CRTE) |
+| <img src="/images/logos/CRTM.webp" alt="Certified Red Team Master (CRTM)" width="100" height="100"> | Certified Red Team Master (CRTM) |
+| <img src="/images/logos/CESP.webp" alt="Certified Enterprise Security Professional – AD CS (CESP – ADCS)" width="100" height="100"> | Certified Enterprise Security Professional – AD CS (CESP – ADCS) |
 
 
 
