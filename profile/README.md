@@ -14,6 +14,10 @@ A brief description of what this project does and who it's for
 - [eCPPTv2](https://linktodocumentation)
 - [eCPPTx](https://linktodocumentation)
 - [eWPT](https://linktodocumentation)
+| Logo                                           | Certification                                 | Description                                                                                             |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| ![OSCP Logo](https://example.com/compTIA-security-plus-logo.png) | eJPT | OffSec Certified Professional |
+
 ### Offensive Security
 | Certification                                 | Description                                                                                             | Logo                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -67,7 +71,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Support
 
-For support, email fake@fake.com or join our Discord channel.
+For support join our Discord channel.
 
 ## Social
 ## Projects
