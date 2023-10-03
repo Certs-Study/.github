@@ -9,20 +9,36 @@ A brief description of what this project does and who it's for
 
 ## Security Certification
 
+### INE
 - [eJPT](https://linktodocumentation)
 - [eCPPTv2](https://linktodocumentation)
 - [eCPPTx](https://linktodocumentation)
 - [eWPT](https://linktodocumentation)
+### Offensive Security
 
+
+### AlteredSecurity
+
+
+### Cisco
+
+
+### Linux Institute
+
+
+### Microsoft
+
+
+### VMWare
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ruben-silva85/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Team, Telecom Security
 
 
 ## Badges
