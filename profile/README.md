@@ -26,9 +26,9 @@ Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Te
 ### Hack The Box
 | Logo | Certification Name |
 | --- | --- |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="HTB Certified Penetration Testing Specialist (HTB CPTS)" width="150" height="150"></a> | [HTB Certified Penetration Testing Specialist (HTB CPTS))](https://github.com/Certs-Study/CPTS-Certification) |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="HTB Certified Bug Bounty Hunter (HTB CBBH)" width="150" height="150"></a> | [HTB Certified Bug Bounty Hunter (HTB CBBH))](https://github.com/Certs-Study/CPTS-Certification) |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="HTB Certified Defensive Security Analyst (HTB CDSA)" width="150" height="150"></a> | [HTB Certified Defensive Security Analyst (HTB CDSA))](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="HTB Certified Penetration Testing Specialist (HTB CPTS)" width="150" height="150"></a> | [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CBBH.png" alt="HTB Certified Bug Bounty Hunter (HTB CBBH)" width="150" height="150"></a> | [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="HTB Certified Defensive Security Analyst (HTB CDSA)" width="150" height="150"></a> | [HTB Certified Defensive Security Analyst (HTB CDSA)](https://github.com/Certs-Study/CPTS-Certification) |
 
 
 ### AlteredSecurity
@@ -59,7 +59,7 @@ Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Te
 
 | Logo | Certification Name |
 | --- | --- |
-| <img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="150" height="150"> | eJPT Junior Penetration Tester |
+| <a href="https://github.com/Certs-Study/eJPT-Junior-Pentester"><img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="150" height="150"></a> | [eJPT Junior Penetration Tester](https://github.com/Certs-Study/eJPT-Junior-Pentester)|
 | <img src="/images/logos/eCDFP.png" alt="eJPT Junior Penetration Tester" width="150" height="150"> | eJPT Junior Penetration Tester |
 | <img src="/images/logos/eCIR.png" alt="eJPT Junior Penetration Tester" width="150" height="150"> | eJPT Junior Penetration Tester |
 | <img src="/images/logos/eCPPT.png" alt="eCPPT Certified Professional Penetration Tester" width="150" height="150"> | eCPPT Certified Professional Penetration Tester |
