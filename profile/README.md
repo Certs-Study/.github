@@ -9,6 +9,17 @@ A brief description of what this project does and who it's for
 
 ## Security Certification
 
+### AlteredSecurity
+
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certified Red Team Professional (CRTP)" width="100" height="100"> | Certified Red Team Professional (CRTP) |
+| <img src="https://example.com/cert2-logo.png" alt="Certified Red Team Expert (CRTE)" width="100" height="100"> | Certified Red Team Expert (CRTE) |
+| <img src="https://example.com/cert3-logo.png" alt="Certified Red Team Master (CRTM)" width="100" height="100"> | Certified Red Team Master (CRTM) |
+| <img src="https://example.com/cert3-logo.png" alt="Certified Enterprise Security Professional – AD CS (CESP – ADCS)" width="100" height="100"> | Certified Enterprise Security Professional – AD CS (CESP – ADCS) |
+
+
+
 ### Offensive Security
 | Logo                                 | Certification                                                                                             |
 |-------------------|---------------------------------------------------------------------------------------------------------|
@@ -23,12 +34,6 @@ A brief description of what this project does and who it's for
 | <img src="/images/logos/OSEE.png" alt="OSEE OffSec Exploitation Expert" width="100" height="100">| OSEE OffSec Exploitation Expert | ![OSEE Logo](./images/logos/OSEE.png) |
 
 ### INE
-| Logo                                          | Certification                                 | Description                                                                                             |
-|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| ![eJPT Logo](https://example.com/compTIA-security-plus-logo.png) | [eJPT](https://linktodocumentation) | OffSec Certified Professional |
-| ![eCPPTv2 Logo](https://example.com/compTIA-security-plus-logo.png) | [eCPPTv2](https://linktodocumentation) | OffSec Certified Professional |
-| ![eCPPTx Logo](https://example.com/compTIA-security-plus-logo.png) | [eCPPTx](https://linktodocumentation) | OffSec Certified Professional |
-| ![eWPT Logo](https://example.com/compTIA-security-plus-logo.png) | [eWPT](https://linktodocumentation) | OffSec Certified Professional |
 
 | Logo | Certification Name |
 | --- | --- |
@@ -46,49 +51,6 @@ A brief description of what this project does and who it's for
 
 
 
-### AlteredSecurity
-
-| Logo | Certification Name |
-| --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
-
-
-### Cisco
-| Logo | Certification Name |
-| --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
-
-
-
-### Linux Institute
-| Logo | Certification Name |
-| --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
-
-
-
-### Microsoft
-| Logo | Certification Name |
-| --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
-
-
-
-### VMWare
-
-| Logo | Certification Name |
-| --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
 
 
 
