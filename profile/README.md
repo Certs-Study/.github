@@ -19,11 +19,20 @@ A brief description of what this project does and who it's for
 | ![eCPPTx Logo](https://example.com/compTIA-security-plus-logo.png) | [eCPPTx](https://linktodocumentation) | OffSec Certified Professional |
 | ![eWPT Logo](https://example.com/compTIA-security-plus-logo.png) | [eWPT](https://linktodocumentation) | OffSec Certified Professional |
 
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+
 
 
 ### Offensive Security
 | Logo                                 | Certification                                                                                             |
-|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|-------------------|---------------------------------------------------------------------------------------------------------|
 | <img src="/images/logos/OSCP.png" alt="OSCP OffSec Certified Professional" width="100" height="100"> | OSCP OffSec Certified Professional | 
 | <img src="/images/logos/OSEP.png" alt="OSEP OffSec Experienced Pentester" width="100" height="100">| OSEP OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
 | <img src="/images/logos/OSED.png" alt="OSED OffSec Exploit Developer" width="100" height="100">| OSED OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
@@ -44,15 +53,41 @@ A brief description of what this project does and who it's for
 
 
 ### Cisco
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+
 
 
 ### Linux Institute
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+
 
 
 ### Microsoft
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+
 
 
 ### VMWare
+
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
