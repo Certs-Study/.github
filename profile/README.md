@@ -15,6 +15,16 @@ A brief description of what this project does and who it's for
 - [eCPPTx](https://linktodocumentation)
 - [eWPT](https://linktodocumentation)
 ### Offensive Security
+| Vendor             | Certification                                 | Description                                                                                             | Logo                                           |
+|--------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| **Offensive Security**        | CompTIA Security+                            | Entry-level certification covering basic security concepts and skills.                                     | ![CompTIA Security+ Logo](https://example.com/compTIA-security-plus-logo.png) |
+| **Offensive Security**     | Certified Ethical Hacker (CEH)               | Focuses on hacking tools and techniques, emphasizing ethical hacking and penetration testing.           | ![CEH Logo](https://example.com/ceh-logo.png) |
+| **Offensive Security** | Offensive Security Certified Professional (OSCP) | Highly regarded for hands-on penetration testing skills, requires passing a challenging practical exam. | ![OSCP Logo](https://example.com/oscp-logo.png) |
+| **Offensive Security**          | Certified Information Systems Auditor (CISA) | Primarily for auditing, but includes information on penetration testing methodologies.                   | ![CISA Logo](https://example.com/cisa-logo.png) |
+| **Offensive Security** | GIAC Penetration Tester (GPEN)              | Covers penetration testing methodology, tools, and techniques with a focus on hands-on skills.           | ![GPEN Logo](https://example.com/gpen-logo.png) |
+| **Offensive Security**          | Cisco Certified CyberOps Associate           | Focuses on network security operations and includes some penetration testing concepts.                      | ![Cisco Logo](https://example.com/cisco-logo.png) |
+| **Offensive Security** | eLearnSecurity Certified Professional (eCPPT) | Offers a practical, hands-on approach to penetration testing and includes real-world scenarios.         | ![eCPPT Logo](https://example.com/ecppt-logo.png) |
+| **Offensive Security** | Certified Information Security Manager (CISM) | Focuses on information risk management and governance but includes penetration testing knowledge. | ![CISM Logo](https://example.com/cism-logo.png) |
 
 
 ### AlteredSecurity
