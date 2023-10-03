@@ -25,14 +25,14 @@ A brief description of what this project does and who it's for
 | Certification                                 | Description                                                                                             | Logo                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | OSCP | OffSec Certified Professional | ![OSCP Logo](./images/logos/OSCP.png) |
-| OSEP | OffSec Experienced Pentester | ![OSEP Logo](https://example.com/ceh-logo.png) |
-| OSED | OffSec Exploit Developer| ![OSED Logo](https://example.com/oscp-logo.png) |
-| OSWP | OffSec Wireless Professional | ![OSWP Logo](https://example.com/cisa-logo.png) |
-| OSWA | OffSec Web Assessor | ![OSWA Logo](https://example.com/gpen-logo.png) |
-| OSWE | OffSec Web Expert | ![OSWE Logo](https://example.com/cisco-logo.png) |
-| OSDA | OffSec Defense Analyst | ![OSDA Logo](https://example.com/ecppt-logo.png) |
-| OSMR | OffSec macOS Researcher | ![OSMR Logo](https://example.com/cism-logo.png) |
-| OSEE | OffSec Exploitation Expert | ![OSEE Logo](https://example.com/cism-logo.png) |
+| OSEP | OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
+| OSED | OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
+| OSWP | OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
+| OSWA | OffSec Web Assessor | ![OSWA Logo](./images/logos/OSWA.png) |
+| OSWE | OffSec Web Expert | ![OSWE Logo](./images/logos/OSWE.png) |
+| OSDA | OffSec Defense Analyst | ![OSDA Logo](./images/logos/OSDA.png) |
+| OSMR | OffSec macOS Researcher | ![OSMR Logo](./images/logos/OSMR.png) |
+| OSEE | OffSec Exploitation Expert | ![OSEE Logo](./images/logos/OSEE.png) |
 
 ### AlteredSecurity
 
