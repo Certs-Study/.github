@@ -24,7 +24,7 @@ A brief description of what this project does and who it's for
 ### Offensive Security
 | Certification                                 | Description                                                                                             | Logo                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| OSCP | OffSec Certified Professional | <img src="./images/logos/OSEP.png" alt="OSEP Logo" width="300" height="200"> 
+| OSCP | OffSec Certified Professional | <img src="./images/logos/OSEP.png" alt="OSEP Logo" width="300" height="200"> |
 | OSED | OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
 | OSWP | OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
 | OSWA | OffSec Web Assessor | ![OSWA Logo](./images/logos/OSWA.png) |
