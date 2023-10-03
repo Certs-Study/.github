@@ -32,12 +32,15 @@ A brief description of what this project does and who it's for
 
 | Logo | Certification Name |
 | --- | --- |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
-| <img src="/images/logos/CPTS.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
-| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
-| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
+| <img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCDFP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCIR.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCPPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCTHP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eDA.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eMAPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eWPTX.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+
 
 
 
