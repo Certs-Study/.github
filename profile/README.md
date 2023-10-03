@@ -14,7 +14,9 @@ A brief description of what this project does and who it's for
 - [eCPPTv2](https://linktodocumentation)
 - [eCPPTx](https://linktodocumentation)
 - [eWPT](https://linktodocumentation)
-| Logo                                           | Certification                                 | Description                                                                                             |
+
+### INE
+| Logo                                          | Certification                                 | Description                                                                                             |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | ![OSCP Logo](https://example.com/compTIA-security-plus-logo.png) | eJPT | OffSec Certified Professional |
 
