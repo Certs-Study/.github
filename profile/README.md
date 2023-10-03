@@ -38,7 +38,7 @@ Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Te
 ### Offensive Security
 | Logo                                 | Certification                                                                                             |
 |-------------------|---------------------------------------------------------------------------------------------------------|
-| <a href=""><img src="/images/logos/OSCP.png" alt="OSCP OffSec Certified Professional" width="100" height="100"></a> | [OSCP OffSec Certified Professional](https://github.com/Certs-Study/OSCP-Certification-Guide)|
+| <a href="https://github.com/Certs-Study/OSCP-Certification-Guide"><img src="/images/logos/OSCP.png" alt="OSCP OffSec Certified Professional" width="100" height="100"></a> | [OSCP OffSec Certified Professional](https://github.com/Certs-Study/OSCP-Certification-Guide)|
 | <img src="/images/logos/OSEP.png" alt="OSEP OffSec Experienced Pentester" width="100" height="100">| OSEP OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
 | <img src="/images/logos/OSED.png" alt="OSED OffSec Exploit Developer" width="100" height="100">| OSED OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
 | <img src="/images/logos/OSWP.png" alt="OSWP OffSec Wireless Professional" width="100" height="100">| OSWP OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
