@@ -40,14 +40,18 @@ A brief description of what this project does and who it's for
 | <img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
 | <img src="/images/logos/eCDFP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
 | <img src="/images/logos/eCIR.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
-| <img src="/images/logos/eCPPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCPPT.png" alt="eCPPT Certified Professional Penetration Tester" width="100" height="100"> | eCPPT Certified Professional Penetration Tester |
 | <img src="/images/logos/eCTHP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
-| <img src="/images/logos/eDA.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eDA.png" alt="eDA Enterprise Defense Administrator" width="100" height="100"> | eDA Enterprise Defense Administrator |
 | <img src="/images/logos/eMAPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
 | <img src="/images/logos/eWPTX.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
 
-
-
+### Hack The Box
+| Logo | Certification Name |
+| --- | --- |
+| <img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCDFP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/eCIR.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
 
 
 
