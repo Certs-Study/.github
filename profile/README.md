@@ -24,7 +24,7 @@ A brief description of what this project does and who it's for
 ### Offensive Security
 | Certification                                 | Description                                                                                             | Logo                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| OSCP | OffSec Certified Professional | ![OSCP Logo](https://example.com/compTIA-security-plus-logo.png) |
+| OSCP | OffSec Certified Professional | ![OSCP Logo](./images/logos/OSCP.png) |
 | OSEP | OffSec Experienced Pentester | ![OSEP Logo](https://example.com/ceh-logo.png) |
 | OSED | OffSec Exploit Developer| ![OSED Logo](https://example.com/oscp-logo.png) |
 | OSWP | OffSec Wireless Professional | ![OSWP Logo](https://example.com/cisa-logo.png) |
