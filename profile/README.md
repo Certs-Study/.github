@@ -49,9 +49,9 @@ A brief description of what this project does and who it's for
 ### Hack The Box
 | Logo | Certification Name |
 | --- | --- |
-| <img src="/images/logos/eJPT.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
-| <img src="/images/logos/eCDFP.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
-| <img src="/images/logos/eCIR.png" alt="eJPT Junior Penetration Tester" width="100" height="100"> | eJPT Junior Penetration Tester |
+| <img src="/images/logos/CPTS.png" alt="HTB Certified Penetration Testing Specialist (HTB CPTS)" width="100" height="100"> | HTB Certified Penetration Testing Specialist (HTB CPTS) |
+| <img src="/images/logos/CBBH.png" alt="HTB Certified Bug Bounty Hunter (HTB CBBH)" width="100" height="100"> | HTB Certified Bug Bounty Hunter (HTB CBBH) |
+| <img src="/images/logos/CDSA.png" alt="HTB Certified Defensive Security Analyst (HTB CDSA)" width="100" height="100"> | HTB Certified Defensive Security Analyst (HTB CDSA) |
 
 
 
