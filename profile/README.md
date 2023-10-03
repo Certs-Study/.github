@@ -9,7 +9,18 @@ A brief description of what this project does and who it's for
 
 ## Security Certification
 
-
+### Offensive Security
+| Logo                                 | Certification                                                                                             |
+|-------------------|---------------------------------------------------------------------------------------------------------|
+| <img src="/images/logos/OSCP.png" alt="OSCP OffSec Certified Professional" width="100" height="100"> | OSCP OffSec Certified Professional | 
+| <img src="/images/logos/OSEP.png" alt="OSEP OffSec Experienced Pentester" width="100" height="100">| OSEP OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
+| <img src="/images/logos/OSED.png" alt="OSED OffSec Exploit Developer" width="100" height="100">| OSED OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
+| <img src="/images/logos/OSWP.png" alt="OSWP OffSec Wireless Professional" width="100" height="100">| OSWP OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
+| <img src="/images/logos/OSWE.png" alt="OSWA OffSec Web Assessor" width="100" height="100">| OSWA OffSec Web Assessor | ![OSWA Logo](./images/logos/OSWA.png) |
+| <img src="/images/logos/OSDA.png" alt="OSWE OffSec Web Expert" width="100" height="100">| OSWE OffSec Web Expert | ![OSWE Logo](./images/logos/OSWE.png) |
+| <img src="/images/logos/OSCP.png" alt="OSDA OffSec Defense Analyst" width="100" height="100">| OSDA OffSec Defense Analyst | ![OSDA Logo](./images/logos/OSDA.png) |
+| <img src="/images/logos/OSMR.png" alt="OSMR OffSec macOS Researcher" width="100" height="100">| OSMR OffSec macOS Researcher | ![OSMR Logo](./images/logos/OSMR.png) |
+| <img src="/images/logos/OSEE.png" alt="OSEE OffSec Exploitation Expert" width="100" height="100">| OSEE OffSec Exploitation Expert | ![OSEE Logo](./images/logos/OSEE.png) |
 
 ### INE
 | Logo                                          | Certification                                 | Description                                                                                             |
@@ -30,18 +41,7 @@ A brief description of what this project does and who it's for
 
 
 
-### Offensive Security
-| Logo                                 | Certification                                                                                             |
-|-------------------|---------------------------------------------------------------------------------------------------------|
-| <img src="/images/logos/OSCP.png" alt="OSCP OffSec Certified Professional" width="100" height="100"> | OSCP OffSec Certified Professional | 
-| <img src="/images/logos/OSEP.png" alt="OSEP OffSec Experienced Pentester" width="100" height="100">| OSEP OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
-| <img src="/images/logos/OSED.png" alt="OSED OffSec Exploit Developer" width="100" height="100">| OSED OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
-| <img src="/images/logos/OSWP.png" alt="OSWP OffSec Wireless Professional" width="100" height="100">| OSWP OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
-| <img src="/images/logos/OSWE.png" alt="OSWA OffSec Web Assessor" width="100" height="100">| OSWA OffSec Web Assessor | ![OSWA Logo](./images/logos/OSWA.png) |
-| <img src="/images/logos/OSDA.png" alt="OSWE OffSec Web Expert" width="100" height="100">| OSWE OffSec Web Expert | ![OSWE Logo](./images/logos/OSWE.png) |
-| <img src="/images/logos/OSCP.png" alt="OSDA OffSec Defense Analyst" width="100" height="100">| OSDA OffSec Defense Analyst | ![OSDA Logo](./images/logos/OSDA.png) |
-| <img src="/images/logos/OSMR.png" alt="OSMR OffSec macOS Researcher" width="100" height="100">| OSMR OffSec macOS Researcher | ![OSMR Logo](./images/logos/OSMR.png) |
-| <img src="/images/logos/OSEE.png" alt="OSEE OffSec Exploitation Expert" width="100" height="100">| OSEE OffSec Exploitation Expert | ![OSEE Logo](./images/logos/OSEE.png) |
+
 
 ### AlteredSecurity
 
