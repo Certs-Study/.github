@@ -24,7 +24,8 @@ A brief description of what this project does and who it's for
 ### Offensive Security
 | Certification                                 | Description                                                                                             | Logo                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| OSCP | OffSec Certified Professional | <img src="./images/logos/OSEP.png" alt="OSEP Logo" width="300" height="200"> |
+| OSCP | OffSec Certified Professional | ![OSCP Logo](./images/logos/OSCP.png) |
+| OSEP | OffSec Experienced Pentester | ![OSEP Logo](./images/logos/OSEP.png) |
 | OSED | OffSec Exploit Developer| ![OSED Logo](./images/logos/OSED.png) |
 | OSWP | OffSec Wireless Professional | ![OSWP Logo](./images/logos/OSWP.png) |
 | OSWA | OffSec Web Assessor | ![OSWA Logo](./images/logos/OSWA.png) |
@@ -34,6 +35,12 @@ A brief description of what this project does and who it's for
 | OSEE | OffSec Exploitation Expert | ![OSEE Logo](./images/logos/OSEE.png) |
 
 ### AlteredSecurity
+
+| Logo | Certification Name |
+| --- | --- |
+| <img src="./images/logos/OSEE.png" alt="Certification 1 Logo" width="100" height="100"> | CRTP |
+| <img src="https://example.com/cert2-logo.png" alt="Certification 2 Logo" width="100" height="100"> | CRTE |
+| <img src="https://example.com/cert3-logo.png" alt="Certification 3 Logo" width="100" height="100"> | CRTM |
 
 
 ### Cisco
