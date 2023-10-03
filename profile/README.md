@@ -1,5 +1,5 @@
 
-![Logo](./images/cover.png)
+![Logo](/images/cover.png)
 
 
 # Certifications Study
