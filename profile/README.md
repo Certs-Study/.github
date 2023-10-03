@@ -9,16 +9,17 @@ A brief description of what this project does and who it's for
 
 ## Security Certification
 
-### INE
-- [eJPT](https://linktodocumentation)
-- [eCPPTv2](https://linktodocumentation)
-- [eCPPTx](https://linktodocumentation)
-- [eWPT](https://linktodocumentation)
+
 
 ### INE
 | Logo                                          | Certification                                 | Description                                                                                             |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| ![OSCP Logo](https://example.com/compTIA-security-plus-logo.png) | eJPT | OffSec Certified Professional |
+| ![eJPT Logo](https://example.com/compTIA-security-plus-logo.png) | [eJPT](https://linktodocumentation) | OffSec Certified Professional |
+| ![eCPPTv2 Logo](https://example.com/compTIA-security-plus-logo.png) | [eCPPTv2](https://linktodocumentation) | OffSec Certified Professional |
+| ![eCPPTx Logo](https://example.com/compTIA-security-plus-logo.png) | [eCPPTx](https://linktodocumentation) | OffSec Certified Professional |
+| ![eWPT Logo](https://example.com/compTIA-security-plus-logo.png) | [eWPT](https://linktodocumentation) | OffSec Certified Professional |
+
+
 
 ### Offensive Security
 | Certification                                 | Description                                                                                             | Logo                                           |
