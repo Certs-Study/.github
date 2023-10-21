@@ -63,7 +63,7 @@ Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Te
 | <img src="/images/logos/eCDFP.png" alt="eCDFP Certified Digital Forensics Professional" width="150" height="150"> | eCDFP Certified Digital Forensics Professional |
 | <img src="/images/logos/eCIR.png" alt="eCIR Certified Incident Responder" width="150" height="150"> | eCIR Certified Incident Responder |
 | <img src="/images/logos/eCPPT.png" alt="eCPPT Certified Professional Penetration Tester" width="150" height="150"> | eCPPT Certified Professional Penetration Tester |
-| <img src="/images/logos/eCTHP.png" alt="Certified Threat Hunting Professional" width="150" height="150"> | Certified Threat Hunting Professional |
+| <img src="/images/logos/eCTHP.png" alt="eCTHP Certified Threat Hunting Professional" width="150" height="150"> | eCTHP Certified Threat Hunting Professional |
 | <img src="/images/logos/eDA.png" alt="eDA Enterprise Defense Administrator" width="150" height="150"> | eDA Enterprise Defense Administrator |
 | <img src="/images/logos/eMAPT.png" alt="Mobile Application Penetration Tester" width="150" height="150"> | Mobile Application Penetration Tester |
 | <img src="/images/logos/eWPTX.png" alt="Web application Penetration Tester eXtreme" width="150" height="150"> | Web application Penetration Tester eXtreme |
